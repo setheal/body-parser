@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Test Coverage][coveralls-image]][coveralls-url]
 
-Node.js body parsing middleware.
+Node.js body pae.
 
 Parse incoming request bodies in a middleware before your handlers, available
 under the `req.body` property.
